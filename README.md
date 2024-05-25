@@ -1,5 +1,7 @@
 le pumper est un outil Python simple pour augmenter la taille des fichiers, avec une interface utilisateur graphique développée en utilisant le module Tkinter.
 
+![pumper](https://github.com/Millecenttrantequatre2/pumper/assets/168791407/bd90cc7b-1c64-44d2-97cd-fba68931ad1f)
+
 [UTILISATION]
 Installation de Python : Assurez-vous d'avoir Python installé sur votre système. Si ce n'est pas le cas, vous pouvez le télécharger et l'installer à partir du site officiel de Python.
 
